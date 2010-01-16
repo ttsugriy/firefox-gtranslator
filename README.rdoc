@@ -1,0 +1,29 @@
+= GTranslator
+
+Plugin for Firefox which allows to translate text simpy having selected it. It's written with {Jetpack}[https://jetpack.mozillalabs.com/] so it doesn't require browser restart. Plugin uses {Google Translate}[http://translate.google.com/] service so it doesn't even need to know your source language (it's automatically detected).
+
+= Usage
+
+Just select a text and you'll see a pop-up message with selected fragment as caption and translation as a message body.
+
+= TODO
+
+* Provide a way to change the destination language (default one is Ukrainian).
+* Improve UI and add 
+
+= LICENSE
+
+Copyright (C) 2010 Taras Tsugriy 
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
