@@ -1,6 +1,10 @@
 = GTranslator
 
-Plugin for Firefox which allows to translate text simpy having selected it. It's written with {Jetpack}[https://jetpack.mozillalabs.com/] so it doesn't require browser restart. Plugin uses {Google Translate}[http://translate.google.com/] service so it doesn't even need to know your source language (it's automatically detected).
+Plugin for Firefox which allows to translate text simply having selected it. It's written with {Jetpack}[https://jetpack.mozillalabs.com/] so it doesn't require browser restart. Plugin uses {Google Translate}[http://translate.google.com/] service so it doesn't even need to know your source language (it's automatically detected).
+
+= Installation
+
+Install {Jetpack}[https://jetpack.mozillalabs.com/install.html]. Open provided gtranslator.html and click newly appeared "Install" button.
 
 = Usage
 
