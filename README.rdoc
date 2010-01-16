@@ -1,10 +1,18 @@
 = GTranslator
 
-Plugin for Firefox which allows to translate text simply having selected it. It's written with {Jetpack}[https://jetpack.mozillalabs.com/] so it doesn't require browser restart. Plugin uses {Google Translate}[http://translate.google.com/] service so it doesn't even need to know your source language (it's automatically detected).
+Plugin for Firefox which allows to translate text simply having selected it. 
+It's written with {Jetpack}[https://jetpack.mozillalabs.com/] so it doesn't require browser restart. 
+Plugin uses {Google Translate}[http://translate.google.com/] service so it doesn't even need to know your source language (it's automatically detected).
 
 = Installation
 
-Install {Jetpack}[https://jetpack.mozillalabs.com/install.html]. Open provided gtranslator.html and click newly appeared "Install" button.
+Install {Jetpack}[https://jetpack.mozillalabs.com/install.html]. 
+Open provided gtranslator.html and click newly appeared "Install" button.
+
+= Configuration
+
+After installation go to "about:jetpack", "Installed Features" and "settings" near "Google translator plugin".
+Choose appropriate language from drop-down list.
 
 = Usage
 
@@ -12,8 +20,7 @@ Just select a text and you'll see a pop-up message with selected fragment as cap
 
 = TODO
 
-* Provide a way to change the destination language (default one is Ukrainian).
-* Improve UI and add 
+* Improve usability of settings manipulation.
 
 = LICENSE
 
